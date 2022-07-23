@@ -91,8 +91,6 @@ Install grafana and it will run on port 3000 by default.
 Configure prometheus in it and create monetoring dash board.
 ```
 ### ❄️ END
-```
-Free free to improve this project and remove issues if you find any as nothing is perfect.
-```
+
 
 
